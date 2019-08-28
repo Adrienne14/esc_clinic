@@ -6,3 +6,7 @@ export const MyHeader = styled.div`
     min-height: 25px;
     height: auto;
 ` 
+export const SiteTitle = styled.h5`
+
+
+`
